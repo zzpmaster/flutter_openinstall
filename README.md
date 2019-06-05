@@ -1,6 +1,6 @@
 # flutter_openinstall
 
-A new flutter plugin project.
+openinstall插件，实现自动拉起app. 实现ios/android
 
 ## Getting Started
 
